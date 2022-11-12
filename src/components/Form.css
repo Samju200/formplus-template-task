@@ -23,12 +23,10 @@
 
 fieldset {
   display: flex;
-  /* height: 40px; */
 }
 legend {
   text-align: left;
   font-size: 10px;
-  /* height: 30px; */
 }
 .sort_select {
   border: none;
@@ -46,7 +44,7 @@ legend {
   justify-content: space-around;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
   .form {
     flex-direction: column;
   }
@@ -58,7 +56,7 @@ legend {
     padding-right: 5px;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 900px) {
   .form {
     margin-top: 10px;
   }

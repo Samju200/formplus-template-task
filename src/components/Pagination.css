@@ -5,11 +5,13 @@
   color: #3f3f3f;
 }
 .page-btn {
-  width: 10px !important;
-  height: 10px !important;
+  width: 15px !important;
+  height: 15px !important;
 }
 .pagination button {
   height: 20px;
+  font-size: 15px;
+  font-weight: bold;
   background: #fff;
   border: none;
   border-radius: 3px;

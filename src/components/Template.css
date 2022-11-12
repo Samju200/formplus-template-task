@@ -85,17 +85,25 @@ body::-webkit-scrollbar-thumb:hover {
   text-decoration: none;
   color: #08bd37;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .template_body {
     grid-template-columns: repeat(2, 1fr);
+    padding: 20px;
+    margin: 20px;
   }
   .template_body_container {
     margin: 10px;
   }
+  .template_header {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 900px) {
   .template_body {
     grid-template-columns: 1fr;
+    padding: 10px;
+    margin: 10px;
   }
   .template_body_container {
     margin: 10px 30px;

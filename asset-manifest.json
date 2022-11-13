@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/formplus-template-task/static/css/main.5413432c.css",
+    "main.css": "/formplus-template-task/static/css/main.38ca9ce7.css",
     "main.js": "/formplus-template-task/static/js/main.0aa6347c.js",
     "index.html": "/formplus-template-task/index.html",
-    "main.5413432c.css.map": "/formplus-template-task/static/css/main.5413432c.css.map",
+    "main.38ca9ce7.css.map": "/formplus-template-task/static/css/main.38ca9ce7.css.map",
     "main.0aa6347c.js.map": "/formplus-template-task/static/js/main.0aa6347c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5413432c.css",
+    "static/css/main.38ca9ce7.css",
     "static/js/main.0aa6347c.js"
   ]
 }
